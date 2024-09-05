@@ -1,8 +1,8 @@
-Amazon Bestsellers Tech Data Analysis
+#Amazon Bestsellers Tech Data Analysis
 Project Overview
 This repository contains a data analysis project where I scraped data from Amazon's Bestsellers Tech page. The project involved collecting, preprocessing, and analyzing data to gain insights into the pricing and rating patterns of top tech products.
 
-Role
+#Role
 As a Data Analyst, my responsibilities included:
 
 Scraping data from Amazon's Bestsellers Tech webpage.
